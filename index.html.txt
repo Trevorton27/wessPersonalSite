@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>What's the purpose of this index.html?</h1>
+<p>I'm not sure why GitHub Pages told me to make this index file.</p>
+</body>
+</html>
